@@ -1,0 +1,100 @@
+
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.main-one{
+  background-color:#F0CCBB;
+  display: flex;
+  justify-content: space-between;
+padding: 5% 5%;
+
+  
+ 
+
+
+}
+.main-one-content{
+width: 60%;
+}
+
+.main-one-content h1{
+ width:46.8125rem;
+  font-family: Montaga;
+  font-size: 80px;
+  font-weight: 400;
+  
+}
+
+.main-one-content p {
+  width: 40.375rem;
+  font-family: Montaga;
+  font-size: 24px;
+  font-weight: 400;
+
+}
+
+.main-one-content a {
+   width: 10.6875rem; 
+   display: flex;
+justify-content: space-between;
+  font-size: 1.1rem;
+  color: #ffffff;
+  font-weight: 400;
+  padding-top: 1% 3%;
+  background-color: #C6754D;
+  border-radius: 16px;
+text-decoration: none;
+  padding: 0.875rem 24px 0.875rem 24px;
+ 
+
+}
+.main-one-img{
+  width: 30%;
+}
+.main-one-img img{
+  width: 100%;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #C6754D;
+  
+}
+
+.box-2 {
+  display: flex;
+ justify-content: space-between;
+padding: 88px;
+}
+.box-2 h1{
+  display: flex;
+  width: 19.375rem;
+font-family: Montaga;
+font-size: 4.5rem;
+font-weight: 400;
+color:#000000;
+text-transform: capitalize;
+}
+.box-2 p{
+width: 46.8125rem;
+font-family: Montaga;
+font-size: 1.5rem;
+font-weight: 400;
+color:  #231F20;
+}
+.box-3 img{
+width: 100%;
+}
+
+footer p{
+font-family: Montaga;
+font-size: 1.375rem;
+font-weight: 400;
+justify-content: space-between;
+text-align: center;
+}
